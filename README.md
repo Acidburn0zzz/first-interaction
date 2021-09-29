@@ -1,6 +1,6 @@
-# First Interaction
+# Pour commencer
 
-An action for filtering pull requests and issues from first-time contributors.
+An action for filtering pull requests and issues from the initial begining point an user evolve under a contributors.
 
 # Usage
 
